@@ -1,0 +1,43 @@
+
+========================================
+current temporary directory
+/private/tmp
+========================================
+creating example directory
+/private/tmp/example
+========================================
+original directory listing
+[]
+========================================
+creating test file...
+========================================
+update directory listing:
+['test']
+========================================
+renaming 'test' to 'filetest.txt' 
+========================================
+update directory listing after renaming
+['filetest.txt']
+========================================
+full file pathname
+/private/tmp/example/filetest.txt
+========================================
+(pathname, basename) == 
+('/private/tmp/example', 'filetest.txt')
+========================================
+(filename, extension)== 
+('filetest', '.txt')
+========================================
+displaying file contents: 
+this
+is just
+a test
+========================================
+deleting test file
+========================================
+update directory listing 
+[]
+========================================
+deleting test directory
+========================================
+Done.
