@@ -1,0 +1,13 @@
+account log:
+ignored: invalid literal for float(): previous balance
+data...processed successfully!
+ignored: invalid literal for float(): debits
+data...processed successfully!
+data...processed successfully!
+data...processed successfully!
+ignored: invalid literal for float(): credits
+data...processed successfully!
+data...processed successfully!
+ignored: invalid literal for float(): finance charge/late fees
+data...processed successfully!
+data...processed successfully!
