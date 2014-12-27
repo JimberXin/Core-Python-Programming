@@ -1,0 +1,19 @@
+
+============================================================
+Recource [Jimber's_Normal]
+[Enter Jimber's_Normal]: Allocate resource.
+[with-body] Run without exceptions.
+[Exit Jimber's_Normal]: Free resource.
+[Exit Jimber's_Normal]: Exited without exception.
+============================================================
+Recource [Jimber's_Exception]
+[Enter Jimber's_Exception]: Allocate resource.
+[with-body] Run with exception.
+[Exit Jimber's_Exception]: Free resource.
+[Exit Jimber's_Exception]: Exited wih exception raised.
+Traceback (most recent call last):
+  File "WithUsage.py", line 34, in <module>
+    main()
+  File "WithUsage.py", line 30, in main
+    raise Exception
+Exception
