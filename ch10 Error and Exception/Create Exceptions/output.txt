@@ -1,0 +1,7 @@
+FileError: [Errno 13] 'r' Permission denied (perms: '---'): '/var/folders/m7/j7b0xqtx6d59jvllx6p8hn1c0000gp/T/tmpPvabGw'
+FileError: [Errno 13] 'r' Permission denied (perms: '--x'): '/var/folders/m7/j7b0xqtx6d59jvllx6p8hn1c0000gp/T/tmpPvabGw'
+FileError: [Errno 13] 'w' Permission denied (perms: 'r--'): '/var/folders/m7/j7b0xqtx6d59jvllx6p8hn1c0000gp/T/tmpPvabGw'
+FileError: [Errno 13] 'w' Permission denied (perms: 'r-x'): '/var/folders/m7/j7b0xqtx6d59jvllx6p8hn1c0000gp/T/tmpPvabGw'
+/var/folders/m7/j7b0xqtx6d59jvllx6p8hn1c0000gp/T/tmpPvabGw open ok...perm ignored.
+NetWorkError: [Errno 8] nodename nor servname provided, or not known: 'deli: 8080'
+NetWorkError: [Errno 8] nodename nor servname provided, or not known: 'deli: 8080'
