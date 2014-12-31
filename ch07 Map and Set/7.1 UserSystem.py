@@ -75,5 +75,6 @@ Enter choice: """
             old_user()
 
 
-if __name__ == '__main__':
-    show_menu()
+# if __name__ == '__main__':
+show_menu()
+print 3

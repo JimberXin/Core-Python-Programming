@@ -1,0 +1,39 @@
+(N)ew User Login
+(E)xisting User Login
+(Q)uit
+Enter choice: N
+Create a new user name: Jimber
+password: 123456
+Confirm your password:1234
+different passwords in two times, please reset password!
+password: 123456
+Confirm your password:123456
+
+(N)ew User Login
+(E)xisting User Login
+(Q)uit
+Enter choice: N
+Create a new user name: Another
+password: 888888
+Confirm your password:888888
+
+(N)ew User Login
+(E)xisting User Login
+(Q)uit
+Enter choice: E
+User Login: Jimber
+password: 12345
+wrong user or password!
+
+(N)ew User Login
+(E)xisting User Login
+(Q)uit
+Enter choice: e
+User Login: Jimber
+password: 123456
+Welcome back!  Jimber
+
+(N)ew User Login
+(E)xisting User Login
+(Q)uit
+Enter choice: 
