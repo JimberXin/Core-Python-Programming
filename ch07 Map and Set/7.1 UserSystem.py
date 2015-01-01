@@ -56,16 +56,16 @@ Enter choice: """
     done = False
     while not done:
         chosen = False
-    while not chosen:
-        try:
-            choice = raw_input(prompt).strip()[0].lower()
-        except (EOFError, KeyboardInterrupt):
-            choice = 'q'
-        print '\nYou Pick: [%s]' % choice
-        if choice not in 'neq':
-            print 'Invalid option, please try again: '
-        else:
-            chosen = True
+        while not chosen:
+            try:
+                choice = raw_input(prompt).strip()[0].lower()
+            except (EOFError, KeyboardInterrupt):
+                choice = 'q'
+            print '\nYou Pick: [%s]' % choice
+            if choice not in 'neq':
+                print 'Invalid option, please try again: '
+            else:
+                chosen = True
 
         if choice == 'q':
             done = True
@@ -75,6 +75,6 @@ Enter choice: """
             old_user()
 
 
-# if __name__ == '__main__':
-show_menu()
-print 3
+if __name__ == '__main__':
+    show_menu()
+
