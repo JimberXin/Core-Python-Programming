@@ -1,0 +1,30 @@
+
+6 + 2 = 8
+correct
+Again? [y] y
+9 - 7 = 3
+incorrect...try again
+9 - 7 = 3
+incorrect...try again
+9 - 7 = 3
+answer
+9 - 7 = 2
+9 - 7 = 2
+correct
+Again? [y] y
+8 - 4 = 4
+correct
+Again? [y] y
+3 - 1 = 2
+correct
+Again? [y] 2
+7 + 2 = 9
+correct
+Again? [y] q
+9 + 6 = 1
+incorrect...try again
+9 + 6 = 12
+incorrect...try again
+9 + 6 = 15
+correct
+Again? [y] 
