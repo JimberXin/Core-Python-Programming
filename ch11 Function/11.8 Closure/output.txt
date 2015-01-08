@@ -1,0 +1,7 @@
+no f1 closure vars
+f2 closure vars: ['<cell at 0x10309ab08: int object at 0x7ff092e098a0>']
+f3 closure vars: ['<cell at 0x10309ab08: int object at 0x7ff092e098a0>', '<cell at 0x10309ab40: int object at 0x7ff092e098a0>']
+<int 'w' id=0x7ff092e098b8 val=1>
+<int 'x' id=0x7ff092e098a0 val=2>
+<int 'y' id=0x7ff092e098a0 val=2>
+<int 'z' id=0x7ff092e09870 val=4>
