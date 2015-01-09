@@ -6,14 +6,14 @@ __author__ = 'JimberXin'
 """
 
 output = '<int %r id=%#0x val=%d>'
-w = x = y = 1
+w = x = y = z = 1
 
 
 def f1():
     x = y = z = 2
 
     def f2():
-        y = z = 2
+        y = z = 3
 
         def f3():
             z = 4
