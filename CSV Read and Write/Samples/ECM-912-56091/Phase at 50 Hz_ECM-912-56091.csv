@@ -1,0 +1,6 @@
+"Phase at 50 Hz (absolute in/out)",,,,,
+Channel,"Phase at 50 Hz (absolute in/out)","Lower Limit","Passed Lower Limit","Upper Limit","Passed Upper Limit"
+,deg,deg,,deg,
+Left,-161.692525873655,-30,False,30,True
+Right,-158.453275811582,-30,False,30,True
+

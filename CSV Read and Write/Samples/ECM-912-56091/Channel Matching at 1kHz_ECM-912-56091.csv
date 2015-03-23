@@ -1,0 +1,5 @@
+"Channel Matching at 1 KHz",,,,,
+Channel,"Channel Matching at 1 KHz","Lower Limit","Passed Lower Limit","Upper Limit","Passed Upper Limit"
+,dB,dB,,dB,
+"Left - Right",-1.41609892946737,-1.4,False,1.4,True
+
